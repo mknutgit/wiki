@@ -1,0 +1,27 @@
+.border {
+  border: 2px solid grey;
+  padding: 4px;
+}
+
+#markdown {
+  height: auto;
+  width: auto;
+  max-width: 870px;
+  max-height: 920px;
+}
+
+.title {
+  font-family: serif;
+}
+
+.jumbotron {
+  margin-top: 200px;
+}
+
+.btn-group {
+  margin-top: 25px;
+}
+
+#h1font {
+  font-size: 100px;
+}
